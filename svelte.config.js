@@ -11,7 +11,7 @@ const config = {
       fallback: 'index.html'  // 👈 Fixes 404 errors on routes like /A1
     }),
     paths: {
-      base: "/GRAPHS"  // 👈 Base path for GitHub Pages
+      base: "/FP_Viz"  // 👈 Base path for GitHub Pages
     },
     appDir: "_app"
   }
