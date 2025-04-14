@@ -27,7 +27,7 @@ jobs:
 
       - name: Build
         env:
-           BASE_PATH: '/GRAPHS'
+           BASE_PATH: '/FP_Viz'
         run: npm run build
 
       - name: Check Build Output
