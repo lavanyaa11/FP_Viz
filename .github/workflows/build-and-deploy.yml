@@ -44,7 +44,7 @@ jobs:
 
     environment:
       name: github-pages
-      url: https://niketha-s.github.io/GRAPHS/
+      url: https://lavanyaa11.github.io/FP_Viz
 
     steps:
       - name: Deploy
